@@ -1,0 +1,4 @@
+﻿  asp2domaci3.cpp
+C:\Users\jovan\source\repos\Cpp\asp2domaci3\asp2domaci3\HashTable.h(11,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\jovan\source\repos\Cpp\asp2domaci3\asp2domaci3\HashTable.h(43,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  asp2domaci3.vcxproj -> C:\Users\jovan\source\repos\Cpp\asp2domaci3\Debug\asp2domaci3.exe
